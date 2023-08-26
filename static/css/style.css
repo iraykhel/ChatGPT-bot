@@ -1,0 +1,44 @@
+body {
+    #f4f4f4;
+    font-size: 20px;
+}
+
+#chatbox {
+    display:block;
+    width: 90%;
+    height: 80%;
+    background-color: #fff;
+    padding: 10px;
+    overflow: auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#user_input {
+    display:block;
+    margin-top: 20px;
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #DFDFDF;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.req {
+    margin-bottom:5px;
+    margin-top:5px;
+    border: 1px solid #DFDFDF;
+    padding: 10px;
+    border-radius: 5px;
+    display:inline-block;
+}
+
+.resp {
+    margin-bottom:5px;
+    margin-top:5px;
+    padding: 10px;
+    background-color: #EEEEEE;
+    border-radius: 5px;
+}
